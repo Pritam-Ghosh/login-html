@@ -1,0 +1,85 @@
+/*css project*/
+
+h1
+{
+            color : skyblue;
+             width: 30%;  
+            font-size: 30px
+}
+
+body
+{
+    color:gray;
+    font-size: 17px
+}
+
+p
+{
+    color:tomato;
+    font-size: 17px
+}
+
+input[type=text], select {
+    width: 15%;
+    padding: 10px 15px;
+    margin: 0px 0px ;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+input[type=password], select {
+    width: 15%;
+     padding: 10px 15px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+
+}
+
+.button1{
+background-color: #f44336; /* Red */
+        border: none;
+        color: white;
+        cursor:pointer;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      border-radius: 8px;
+        font-size: 16px;
+      }
+
+ 
+   .button2{
+background-color: #f44336; /* Red */
+        border: none;
+        color: white;
+        cursor:pointer;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      border-radius: 8px;
+        font-size: 16px;
+      }  
+      
+     .button3{
+         background: red;
+         boder: none;
+         color:white;
+         cursor:pointer;
+         padding: 10px 20px;
+         text-align: center;
+         text-decoration:  none;
+         display: inline-block;
+         border-radius: 8px;
+         font-size:16px;
+     }
+            
+             
+         
+     
